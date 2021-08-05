@@ -2,10 +2,10 @@
 
 $address = (object)[
     
-    'cep' => ''
-    'logradouro' => ''
-    'bairro' => ''
-    'localidade' => ''
+    'cep' => '',
+    'logradouro' => '',
+    'bairro' => '',
+    'localidade' => '',
     'uf' => ''
 
 ];
