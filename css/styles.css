@@ -306,7 +306,7 @@ section .card-item {
   margin: 0 auto;
   border-radius: 8px;
   z-index: 10;
-  padding: 50px;
+  padding: 35px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
   grid-gap: 30px;
@@ -316,6 +316,7 @@ section .card-item {
   width: 100%;
   height: 100%;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 .contact-text-content {
